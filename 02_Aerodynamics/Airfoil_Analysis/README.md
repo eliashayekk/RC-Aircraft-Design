@@ -143,6 +143,12 @@ The CR001SM airfoil has been selected for further aircraft-level analysis and de
 
 Future work will focus on quantitative validation, integration with the complete aircraft configuration, and evaluation through physical flight testing.
 
+
+## Detailed Results
+
+The quantitative airfoil comparison, figures, and engineering interpretation are available in the [Results and Discussion](RESULTS_AND_DISCUSSION.md) report.
+
+
 ---
 
 **Elias Hayek**  
