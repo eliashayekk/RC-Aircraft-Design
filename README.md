@@ -30,7 +30,7 @@ The aircraft is intended for manual recreational flight, with an emphasis on sta
 | Parameter | Current Design |
 |---|---|
 | Aircraft type | Fixed-wing RC aircraft |
-| Wing position | Mid-wing |
+| Wing position | High-wing |
 | Wing planform | Rectangular |
 | Wing aspect ratio | 6.5 |
 | Wing airfoil | CR001SM |
