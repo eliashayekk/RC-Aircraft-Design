@@ -2,17 +2,13 @@
 
 ## V1 - Preliminary Configuration
 
-Initial aerodynamic and stability analyses were performed using
-preliminary mass, propulsion, and construction assumptions.
+Initial aerodynamic and stability analyses were performed using preliminary mass, propulsion, and construction assumptions.
 
-The configuration established the initial wing geometry, airfoil
-selection, tail sizing, and stability characteristics.
+The configuration established the initial wing geometry, airfoil selection, tail sizing, and stability characteristics.
 
 ## V2 - Balsa Configuration
 
-Following component selection and refinement of the construction method,
-the aircraft mass model was updated using measured component masses and
-a balsa structural estimate.
+Following component selection and refinement of the construction method, the aircraft mass model was updated using measured component masses and a balsa structural estimate.
 
 The revised configuration will be used to reassess:
 
