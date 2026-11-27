@@ -3,7 +3,7 @@
 ## Versioning rule
 
 - `V1_Preliminary` is a frozen archive of the original preliminary configuration.
-- `V2_Balsa_Configuration` is the active balsa-based design.
+- [`V2_Balsa_Configuration`](V2_Balsa_Configuration/README.md) is the active balsa-based design. Its requirements, mass and CG, aerodynamics, stability and control, propulsion, structures, CAD, and manufacturing records live together at the repository root. The earlier discipline-level V2 entry points link to this folder.
 - Shared reference data belongs in `00_Shared_Resources`.
 - Study scripts stay beside their datasets when their paths, outputs, or constants are version-coupled.
 - New results must not overwrite V1 files.
@@ -82,7 +82,19 @@ RC-Aircraft-Design/
 ├── 06_CAD/
 ├── 07_Manufacturing/
 ├── 08_Testing/
-└── 09_Reports/
+├── 09_Reports/
+└── V2_Balsa_Configuration/
+    ├── 01_Requirements/
+    ├── 02_Mass_CG/
+    ├── 03_Aerodynamics/
+    │   ├── Airfoil_Trade_Study/
+    │   └── Wing_3D/
+    ├── 04_Stability_Control/
+    ├── 05_Propulsion/
+    ├── 06_Structures/
+    ├── 07_CAD/
+    ├── 08_Manufacturing/
+    └── README.md
 ```
 
 ## File-handling decisions

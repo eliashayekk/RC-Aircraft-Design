@@ -25,7 +25,9 @@ The aircraft is intended for manual recreational flight, with an emphasis on sta
 - Design a removable wing for easier transportation and maintenance.
 - Validate design assumptions through experimental testing.
 
-## 3. Preliminary Aircraft Configuration
+## 3. Current Aircraft Configuration
+
+[Open the V2 design baseline and analysis status](V2_Balsa_Configuration/README.md).
 
 | Parameter | Current Design |
 |---|---|
@@ -33,7 +35,10 @@ The aircraft is intended for manual recreational flight, with an emphasis on sta
 | Wing position | High-wing |
 | Wing planform | Rectangular |
 | Wing aspect ratio | 6.5 |
-| Wing airfoil | CR001SM |
+| Wing airfoil | NACA 4412, pending 3D validation |
+| Design mass | 630 g |
+| Wing span × chord | 1.55 m × 0.238 m |
+| Construction | Balsa with local reinforcement |
 | Tail configuration | Conventional |
 | Horizontal tail aspect ratio | 4 |
 | Propulsion | Single tractor propeller |
