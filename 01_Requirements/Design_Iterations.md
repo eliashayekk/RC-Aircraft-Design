@@ -20,3 +20,5 @@ The revised configuration will be used to reassess:
 - Propulsion performance
 
 Existing V1 analyses are retained as part of the design history.
+
+The [V2 baseline](../V2_Balsa_Configuration/README.md) records the revised mass and component placement, the 1000 KV propulsion hardware and the shift to NACA wing sections for balsa rib construction. The 2D trade study advances NACA 4412 to 3D validation. The 3D wing and full-aircraft studies will inform the final CAD and structural updates.
